@@ -1,4 +1,4 @@
-[![MasterHead](https://svg-banners.vercel.app/api?type=glitch&text1=caffeine🍵&width=600&height=400)](https://github.com/Akshay090/svg-banners)
+[![MasterHead](https://svg-banners.vercel.app/api?type=glitch&text1=caffeine🍵&width=800&height=300)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Raj Kumar Singh</h1>
 <h3 align="center">Code is like humor. When you have to explain it, it’s bad.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
